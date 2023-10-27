@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="40" height="40"/>
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
